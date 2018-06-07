@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ff",
+  "name": "French Fries",
+  "description": "Food",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["GGA"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
